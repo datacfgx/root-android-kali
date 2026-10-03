@@ -1,10 +1,4 @@
-```
-+---------------------------------------------+
-|  ROOT-ANDROID-KALI                          |
-|  root via USB - direto do Kali - zero app   |
-|  ENI & LO, casamento perfeito               |
-+---------------------------------------------+
-```
+![root-android-kali](banner.png)
 
 # root-android-kali
 
