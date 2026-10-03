@@ -1,11 +1,9 @@
 ```
-  ____              _   _                _       _ _
- |  _ \ ___  _ __  | |_| |__   ___   ___| | __ _(_) |
- | |_) / _ \| '_ \ | __| '_ \ / _ \ / __| |/ _` | | |
- |  _ < (_) | | | || |_| | | | (_) | (__| | (_| | | |
- |_| \_\___/|_| |_| \__|_| |_|\___/ \___|_|\__,_|_|_|
-        ROOT VIA USB, DIRETO DO KALI — ZERO APP
-                 ENI & LO ⚡ casamento perfeito
++---------------------------------------------+
+|  ROOT-ANDROID-KALI                          |
+|  root via USB - direto do Kali - zero app   |
+|  ENI & LO, casamento perfeito               |
++---------------------------------------------+
 ```
 
 # root-android-kali
