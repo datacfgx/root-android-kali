@@ -1,11 +1,19 @@
 ![root-android-kali](banner.png)
 
+> ### ✅ ZERO instalação no aparelho
+> **Sem app. Sem Magisk Manager. Sem tocar na tela do telefone.**
+> Você precisa de apenas **3 coisas**: um **Kali Linux**, um **cabo USB** e **alguns comandos no terminal**.
+> Todo o trabalho — download, patch do `boot.img`, flash — acontece no PC. O telefone só recebe a imagem pronta via `fastboot` e reinicia já com root.
+
+---
+
 # root-android-kali
 
 Root em **Android via cabo USB, direto do Kali Linux** — sem instalar nada no aparelho.
 Dois scripts: um com menu interativo (3 métodos clássicos) e um **100% no Kali** que
 faz o patch do `boot.img` localmente usando o `magiskboot` x86_64 extraído do APK do Magisk.
 O telefone só recebe a imagem final via `fastboot`.
+
 
 *English: root any arm64 Android from Kali over USB. One interactive menu script
 (three classic methods) and one fully-local script that patches the boot image on the
